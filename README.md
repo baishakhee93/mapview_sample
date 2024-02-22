@@ -15,12 +15,13 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-# Need For MapVie
--Map View for you need GOOGLE_MAPS_API_KEY 
--Dependancies
+# Need For MapView
+- Map View for you need GOOGLE_MAPS_API_KEY
+- Dependancies
 
 # Permission in AndroidManifest.xml File
-  <uses-permission android:name="android.permission.INTERNET"/>
+
+     <uses-permission android:name="android.permission.INTERNET"/>
   
     <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
     
