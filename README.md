@@ -19,8 +19,14 @@ samples, guidance on mobile development, and a full API reference.
 -Map View for you need GOOGLE_MAPS_API_KEY 
 -Dependancies
 
-# Permission in Manifast.xml File
-
+# Permission in AndroidManifest.xml File
+  <uses-permission android:name="android.permission.INTERNET"/>
+  
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    
+    <!-- or -->
+    
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
 
 
 # Dependancy 
