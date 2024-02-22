@@ -15,10 +15,18 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-# Dependancy 
-  google_maps_flutter: ^2.0.10
-  location: ^4.4.0
-  google_maps_webservice: ^0.0.15
+# Need For MapVie
+-Map View for you need GOOGLE_MAPS_API_KEY 
+-Dependancies
 
-  
+# Permission in Manifast.xml File
+
+
+
+# Dependancy 
+ - google_maps_flutter: ^2.0.10
+ - location: ^4.4.0
+ - google_maps_webservice: ^0.0.15
+
+  # Screenshort
 ![Screenshot_20240222_085212](https://github.com/baishakhee93/mapview_sample/assets/50324744/ee41a6dc-81ea-45c5-800c-4b3e07761894)
